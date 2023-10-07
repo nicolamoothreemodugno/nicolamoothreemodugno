@@ -1,4 +1,4 @@
-## Hi there I'm Nicola Modugno 👋
+## Hi there 👋
 Nice to meet you my name is Nicola Modugno and I am a student at Univerity of Salerno whit brief experiences in the field of Web Development.
 
 - 🔭 I’m currently working on a new Software Engineering project (spare-time).
@@ -7,7 +7,7 @@ Nice to meet you my name is Nicola Modugno and I am a student at Univerity of Sa
 **nicolamoothreemodugno/nicolamoothreemodugno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ## My Interests
-I'm very passionate about software engineering projects. I'm also keenly interested in reverse engineering of executable files and ROM dumps. 
+I'm very passionate about software engineering projects. I'm also keenly interested in reverse engineering of executables and ROM dumps.
 My favourite progamming lenguages are Python, C and Java. 
 
 ## Find me on LinkedIn:
