@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello. 👋
 Nice to meet you my name is Nicola Modugno and I am a student at Univerity of Salerno whit brief experiences in the field of Web Development.
 
 - 🔭 I’m currently working on a new Software Engineering project (spare-time).
