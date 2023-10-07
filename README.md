@@ -1,5 +1,5 @@
 ## Hello. 👋
-Nice to meet you my name is Nicola Modugno and I am a student at Univerity of Salerno whit brief experiences in the field of Web Development.
+Nice to meet you my name is Nicola Modugno and I am a student at the Univerity of Salerno whit brief experiences in the field of Web Development.
 
 - 🔭 I’m currently working on a new Software Engineering project (spare-time).
 - 🌱 I’m currently learning Unity3D.
