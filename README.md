@@ -1,11 +1,14 @@
 ### Hi there I'm Nicola Modugno 👋
+Nice to meet you my name is Nicola Modugno and I am a student at Univerity of Salerno whit brief experiences in the field of Web Development.
 
+- 🔭 I’m currently working on a new Software Engineering project (spare-time)
+- 🌱 I’m currently learning Unity3D
 <!--
 **nicolamoothreemodugno/nicolamoothreemodugno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 🔭 I’m currently working on a new Software Engineering project 
-- 🌱 I’m currently learning Unity 3D
-- 📫 How to reach me: ...
 -->
+## My Interests
+I'm very passionate about software engineering projects. I'm also keenly interested in reverse engineering of executable files and ROM dumps. 
+My favourite progamming lenguages are Python, C and Java. 
 
 ### Find me on LinkedIn:
 <p align="left">
@@ -22,3 +25,10 @@
 ## GitHub Stats
 ![Nicola's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolamoothreemodugno&show_icons=true&theme=transparent)<br>
 [![Nicola's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nicolamoothreemodugno&theme=iceberg&border_radius=4.4)](https://git.io/streak-stats)<br>
+
+## Stenghts 💪
+- 😌 Aptitude for listening.
+- 🤝🏻 Natural propensity for teamwork and goals.
+## Weaknesses 👎
+- 🏋️‍♂️ Stubborn and dedicated.
+- 👈🏻 Outspoken.
