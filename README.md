@@ -22,7 +22,3 @@ My favourite progamming lenguages are Python, C and Java.
 <a href="" target="blank"><img align="center" src="https://unikey.co.il/wp-content/uploads/2021/01/GOG-COM-logo-ICON.png" alt="" height="30"/>
 <a href="" target="blank"><img align="center" src="https://www.techspot.com/images2/downloads/topdownload/2021/03/2021-03-17-ts3_thumbs-cba.png" alt="" height="30"/>
 </p>
-
-## GitHub Stats
-![Nicola's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolamoothreemodugno&show_icons=true&theme=transparent)<br>
-[![Nicola's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nicolamoothreemodugno&theme=iceberg&border_radius=4.4)](https://git.io/streak-stats)<br>
