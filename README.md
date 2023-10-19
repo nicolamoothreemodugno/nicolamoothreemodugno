@@ -1,4 +1,4 @@
-## Hi 👋
+## Hi. 👋
 Nice to meet you my name is Nicola Modugno and I am a student at the Univerity of Salerno whit brief experiences in the field of Web Development.
 
 - 🌱 I’m currently learning Unity3D.
@@ -11,9 +11,9 @@ My favourite progamming lenguages are Python, C and Java.
 
 ## Tools I Use ✨
 
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ%20Idea-black?style=for-the-badge)
-![Eclipse](https://img.shields.io/badge/Eclipse%20-purple?style=for-the-badge)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse%20-grey?style=for-the-badge)
 ![Unity3D](https://img.shields.io/badge/Unity3D-%2300599C.svg?style=for-the-badge&logo=Unity&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
