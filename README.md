@@ -28,7 +28,7 @@ My favourite progamming lenguages are Python, C and Java.
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Paint.NET](https://img.shields.io/badge/paint.net%20-grey?style=for-the-badge)
+![Paint.NET](https://img.shields.io/badge/paint.net%20-lightgrey?style=for-the-badge)
 ![HxD](https://img.shields.io/badge/HxD%20-orange?style=for-the-badge)
 
 ## Find me on LinkedIn:
