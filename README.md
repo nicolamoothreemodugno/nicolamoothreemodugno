@@ -1,7 +1,6 @@
 ## Hi 👋
 Nice to meet you my name is Nicola Modugno and I am a student at the Univerity of Salerno whit brief experiences in the field of Web Development.
 
-- 🌱 I’m currently learning Unity3D.
 <!--
 **nicolamoothreemodugno/nicolamoothreemodugno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
