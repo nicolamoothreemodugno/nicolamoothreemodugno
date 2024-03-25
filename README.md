@@ -5,7 +5,7 @@ Nice to meet you my name is Nicola Modugno and I am a student at the Univerity o
 **nicolamoothreemodugno/nicolamoothreemodugno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ## My Interests
-I'm very passionate about software engineering projects and keenly interested in reverse engineering of executables and ROM dumps.
+I'm very passionate about software engineering projects.
 
 ## Tools I Use ✨
 
