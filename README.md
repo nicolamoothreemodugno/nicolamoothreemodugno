@@ -16,7 +16,7 @@ I hope you enjoy exploring what I’ve been working on — happy browsing!
 ![Unity3D](https://img.shields.io/badge/Unity3D-%2300599C.svg?style=for-the-badge&logo=Unity&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![CSharp](https://img.shields.io/badge/C#-%23563D7C.svg?style=for-the-badge&logo=CSharp&logoColor=white)
+![CSharp](https://img.shields.io/badge/CSharp-%23563D7C.svg?style=for-the-badge&logo=CSharp&logoColor=white)
 ![CanvasJS](https://img.shields.io/badge/Canvas%20JS%20-darkblue?style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-purple?style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
