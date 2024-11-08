@@ -1,13 +1,13 @@
-## Hi 👋
-Nice to meet you, my name is Nicola and I am a student at the Univerity of Salerno whit a little experience in the field of Web Development.
+## Greetings 👋
+Welcome to my home page! My name is Nicola, and I’m a graduate student at the University of Bologna with a deep passion for software engineering projects. 
+Here, you’ll find a collection of my work, from personal projects to academic collaborations. 
+I hope you enjoy exploring what I’ve been working on — happy browsing!
 
 <!--
 **nicolamoothreemodugno/nicolamoothreemodugno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-## My Interests
-I'm very passionate about software engineering projects.
 
-## Tools I Use ✨
+## Tools I use ✨
 
 ![IntelliJ](https://img.shields.io/badge/IntelliJ%20Idea-black?style=for-the-badge)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
