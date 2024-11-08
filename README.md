@@ -1,5 +1,6 @@
 ## Greetings 👋
-Welcome to my home page! My name is Nicola, and I’m a graduate student at the University of Bologna with a deep passion for software engineering projects. 
+Welcome to my home page! 
+My name is Nicola, and I’m a graduate student at the University of Bologna with a deep passion for software engineering projects. 
 Here, you’ll find a collection of my work, from personal projects to academic collaborations. 
 I hope you enjoy exploring what I’ve been working on — happy browsing!
 
