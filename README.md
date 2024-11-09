@@ -36,7 +36,7 @@ I hope you enjoy exploring what I’ve been working on — happy browsing!
 <a href="https://www.linkedin.com/in/nicola-modugno-20a26b202" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="" height="30"/>
 </p>
 
-## I enjoy gaming, you may spot me on:
+## You may spot me on:
 <p align="left">
 <a href="" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Epic_Games_logo.svg/516px-Epic_Games_logo.svg.png" alt="" height="30"/>
 <a href="" target="blank"><img align="center" src="https://cdn.freebiesupply.com/images/large/2x/steam-logo-transparent.png" alt="" height="30"/>
