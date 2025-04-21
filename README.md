@@ -29,7 +29,10 @@ I hope you enjoy exploring what I’ve been working on — happy browsing!
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Paint.NET](https://img.shields.io/badge/paint.net%20-white?style=for-the-badge)
 ![HxD](https://img.shields.io/badge/HxD%20-orange?style=for-the-badge)
-![R](https://img.shields.io/badge/R%20%20-blue?style=for-the-badge)
+![R](https://img.shields.io/badge/R%20%20-skyblue?style=for-the-badge)
+![OpenGL](https://img.shields.io/badge/OpenGL%20-blue?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino%20-darkgreen?style=for-the-badge)
+
 
 ## Find me on LinkedIn:
 <p align="left">
